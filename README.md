@@ -28,6 +28,6 @@ The repository is designed to help learners understand different search strategi
 
 ##  Credits  
 
-Built with  by **Abhishek Singh**  
+Built  by **Abhishek Singh**  
 Guided & inspired by **Dr. Arun (AI Professor)** – [GitHub](https://github.com/aruntakhur)  
 
